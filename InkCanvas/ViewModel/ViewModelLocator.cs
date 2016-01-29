@@ -39,6 +39,7 @@ namespace InkCanvas.ViewModel
             }
 
             SimpleIoc.Default.Register<MainViewModel>();
+
         }
 
         /// <summary>
